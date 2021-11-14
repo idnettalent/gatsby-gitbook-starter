@@ -1,5 +1,5 @@
 ---
-title: "NSE-4 part 1, 1-20 Q&A include Explanation"
+title: "NSE-4"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
