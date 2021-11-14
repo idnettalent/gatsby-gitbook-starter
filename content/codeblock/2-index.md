@@ -19,6 +19,13 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 + const data = [1,2];
 ```
 
+<details>
+<summary>Click to toggle contents of `code`</summary>
+```
+CODE!
+```
+</details>
+
 ## Live Editing example
 
 ```javascript react-live=true
