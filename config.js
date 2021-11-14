@@ -6,8 +6,8 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: '',
-    logoLink: '',
+    //logo: '',
+    //logoLink: '',
     title:
     "Sub Page No 2",
     githubUrl: '',
