@@ -20,10 +20,8 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 ```
 
 <details>
-<summary>Click to toggle contents of `code`</summary>
-```
-CODE!
-```
+<summary>Summary text.</summary>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
 </details>
 
 ## Live Editing example
