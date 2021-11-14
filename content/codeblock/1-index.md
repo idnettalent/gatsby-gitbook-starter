@@ -1,5 +1,5 @@
 ---
-title: "Sub Page"
+title: "Sub Page No 1"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
@@ -18,6 +18,11 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 - const data = ['1','2'];
 + const data = [1,2];
 ```
+
+<details>
+<summary>Summary text.</summary>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
+</details>
 
 ## Live Editing example
 
