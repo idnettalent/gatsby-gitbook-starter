@@ -1,14 +1,13 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: '',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    title: "IDNETTALENT"
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+    title: "IDNETTALENT",
+    githubUrl: '',
     helpUrl: '',
     tweetText: '',
     social: `<li>
